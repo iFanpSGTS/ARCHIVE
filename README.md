@@ -1,7 +1,4 @@
-# CARA PAKAI
-- pip install -r req.txt
-  - python (terserah kalian(1-8)).py
+# FYI
+- Repo ini saya buat untuk menggampangkan pencarian code. SEKIAN TRIMS
 
-# CREDIT
-- iFanpS
-- NumeXx
+# OWNER BY iFanpS
