@@ -1,2 +1,4 @@
-# ARCHIVE
-Semua hasil dari scraping saya ada disini
+# FYI
+- Saya membuat repo ini karena ingin menggampangkan pencarian code saja. TRIMS
+
+# OWNED BY iFanpS
