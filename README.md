@@ -1,4 +1,7 @@
-# FYI
-- Saya membuat repo ini karena ingin menggampangkan pencarian code saja. TRIMS
+# CARA PAKAI
+- pip install -r req.txt
+  - python (terserah kalian(1-8)).py
 
-# OWNED BY iFanpS
+# CREDIT
+- iFanpS
+- NumeXx

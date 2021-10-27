@@ -1,0 +1,6 @@
+bs4
+requests
+regex
+pandas
+jagokata
+brainly_scraper
